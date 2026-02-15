@@ -1,4 +1,4 @@
-# Churn-Predictor-
+# Churn-Predictor
 
 Developed a machine learning model leveraging personal, demographic, and financial data to predict whether a customer is likely to abandon the bank’s services. 
  
